@@ -78,7 +78,7 @@ Deployed Site Link: https://main--comfy-ecommerces.netlify.app/
 
 Final Project Blog Article: Share insights, challenges, and learnings from building this project.
 
-Author(s) LinkedIn Profiles:
+**Author(s) LinkedIn Profiles:**
 https://www.linkedin.com/in/grace-sarpong-a9573775/
 
 https://www.linkedin.com/in/wahab-junior/
