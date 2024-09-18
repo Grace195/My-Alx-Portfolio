@@ -2,7 +2,7 @@
 
 **Project members:** Grace Sarpong and Wahab .M. Junior
 
-![Products Page] https://drive.google.com/file/d/120_yjkZb6xjeCQmXgoXPUggPwpRYOwfz/view?usp=sharing
+![Products Page] https://drive.google.com/file/d/1vr3Fr8w7eTYUeOzqxMmG0us8z6lE6n28/view?usp=sharing
 
 **Introduction:**
 The Comfy E-commerce Website is an online platform designed for shopping and browsing various products. Users can explore a wide range of items, add them to their cart, and make purchases.
