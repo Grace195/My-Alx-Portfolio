@@ -1,6 +1,7 @@
 **Product name:** Comfy E-commerce Website
 
 **Project members:** Grace Sarpong and Wahab .M. Junior
+
 ![Products Page](https://drive.google.com/uc?export=view&id=1tdg3pog8MHvXKnfF4B3yAFuCrWTlDefG)
 
 **Introduction**
