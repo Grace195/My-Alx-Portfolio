@@ -13,10 +13,10 @@ Hi there! 👋Our names are Grace and Wahab, we are passionate developers who be
 **The Technical Challenge**
 Let’s get real: this project won’t win any awards for complexity. But that’s okay! We intentionally kept it simple because we wanted to focus on nailing the fundamentals. Here’s what I set out to achieve:
 
-User Authentication: We wrestled with user sign-up and login flows. How do we make it secure yet user-friendly? It’s a delicate balance.
-Product Listings: Grid view or list view? Pagination? Filtering? These seemingly small decisions shaped the overall experience.
-State Management: Redux came to the rescue. Managing cart items, dark mode preferences, and loading states—all in one place.
-Styling: Tailwind made things pretty. But choosing the right color palette? That’s where the real magic happened.
+**User Authentication:** We wrestled with user sign-up and login flows. How do we make it secure yet user-friendly? It’s a delicate balance.
+**Product Listings:** Grid view or list view? Pagination? Filtering? These seemingly small decisions shaped the overall experience.
+**State Management:** Redux came to the rescue. Managing cart items, dark mode preferences, and loading states—all in one place.
+**Styling:** Tailwind made things pretty. But choosing the right color palette? That’s where the real magic happened.
 
 **The Struggles (Yes, We All Have Them)**
 We  won’t pretend it was all smooth sailing. There were late nights, cryptic error messages, and moments of self-doubt. But each bug squashed, each feature added—it felt like progress. And that’s what matters.
@@ -24,9 +24,9 @@ We  won’t pretend it was all smooth sailing. There were late nights, cryptic e
 **The Next Iteration**
 Where do we go from here? Well, we dream of:
 
-Better Search: Imagine an AI-powered search that understands typos and context. That’s the dream.
-Recommendations: Personalized product suggestions based on user behavior. Who doesn’t love a good recommendation?
-Accessibility: Making the site usable for everyone. Because inclusivity matters.
+**Better Search:** Imagine an AI-powered search that understands typos and context. That’s the dream.
+**Recommendations:** Personalized product suggestions based on user behavior. Who doesn’t love a good recommendation?
+**Accessibility:** Making the site usable for everyone. Because inclusivity matters.
 
 **Installation**
 Clone this repo.
