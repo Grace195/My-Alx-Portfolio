@@ -77,7 +77,9 @@ This project is licensed under the MIT License. See LICENSE for details.
 Deployed Site Link: https://main--comfy-ecommerces.netlify.app/
 
 Final Project Blog Article:
+
 Grace Sarpong:
+
 Wahab .M. Junior: https://www.linkedin.com/feed/update/urn:li:activity:7242276417688793088/
 
 **Author(s) LinkedIn Profiles:**
