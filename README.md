@@ -74,7 +74,6 @@ Clicking on a product takes users to a detailed page with information about that
 This project is licensed under the MIT License. See LICENSE for details.
 
 **Additional Information:**
-Don’t forget to include the following in your project documentation:
 Deployed Site Link: Provide the URL where users can access the live version of your Comfy E-commerce Website.
 Final Project Blog Article: Share insights, challenges, and learnings from building this project.
 Author(s) LinkedIn Profiles: Connect with your audience by sharing your LinkedIn profiles.
