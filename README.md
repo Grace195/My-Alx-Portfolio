@@ -78,7 +78,7 @@ Deployed Site Link: https://main--comfy-ecommerces.netlify.app/
 
 Final Project Blog Article:
 
-Grace Sarpong:
+Grace Sarpong: https://www.linkedin.com/posts/grace-sarpong-a9573775_crafting-the-comfy-e-commerce-website-activity-7242311339090554880-Iiyn?utm_source=share&utm_medium=member_android
 
 Wahab .M. Junior: https://www.linkedin.com/feed/update/urn:li:activity:7242276417688793088/
 
